@@ -35,4 +35,6 @@ def test_Stack():
     assert s1.pop() == 2
     assert s1.pop() == 1
  ```
+ 
+ In the above program, assert is used to make an assertion about the result. You get passed or failed for each of asserts if they're true or false respectively.
   
