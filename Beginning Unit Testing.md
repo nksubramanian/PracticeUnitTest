@@ -38,3 +38,4 @@ def test_Stack():
  
  In the above program, assert is used to make an assertion about the result. You get passed or failed for each of asserts if they're true or false respectively.
   
+ Step 3: You could then run the above file using pytest test_StackModule.py either in the command prompt or in the console provided in the pyCharm editor. 
